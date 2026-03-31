@@ -156,6 +156,8 @@ yarn-error.log*
 KIS/
 .master/
 .kis_token*.json
+.env.*
+.env.openclaw
 
 # ===== Lean workspace =====
 .lean-workspace/

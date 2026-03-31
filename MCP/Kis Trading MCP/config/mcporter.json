@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    "kis-mcp": {
+      "command": "/home/mequest/.local/bin/uv",
+      "args": [
+        "run",
+        "--project",
+        "/mnt/d/GitHub/kis-mcp",
+        "python",
+        "server.py"
+      ],
+      "env": {
+        "ENV": "openclaw"
+      },
+      "cwd": "/mnt/d/GitHub/kis-mcp"
+    }
+  },
+  "imports": []
+}
